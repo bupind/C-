@@ -1,0 +1,4 @@
+C:\Users\bahtiar\AppData\Local\Temporary Projects\BilanganPrima\bin\Release\BilanganPrima.exe
+C:\Users\bahtiar\AppData\Local\Temporary Projects\BilanganPrima\bin\Release\BilanganPrima.pdb
+C:\Users\bahtiar\AppData\Local\Temporary Projects\BilanganPrima\obj\x86\Release\BilanganPrima.exe
+C:\Users\bahtiar\AppData\Local\Temporary Projects\BilanganPrima\obj\x86\Release\BilanganPrima.pdb

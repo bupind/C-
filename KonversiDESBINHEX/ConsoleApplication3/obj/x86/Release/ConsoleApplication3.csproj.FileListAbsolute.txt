@@ -1,0 +1,9 @@
+C:\Users\bahtiar\AppData\Local\Temporary Projects\ConsoleApplication3\bin\Release\ConsoleApplication3.exe
+C:\Users\bahtiar\AppData\Local\Temporary Projects\ConsoleApplication3\bin\Release\ConsoleApplication3.pdb
+C:\Users\bahtiar\AppData\Local\Temporary Projects\ConsoleApplication3\obj\x86\Release\ConsoleApplication3.exe
+C:\Users\bahtiar\AppData\Local\Temporary Projects\ConsoleApplication3\obj\x86\Release\ConsoleApplication3.pdb
+E:\UIN-Academy\C# - B\ConsoleApplication3\ConsoleApplication3\bin\Release\KonversiDECBINHEX.exe
+E:\UIN-Academy\C# - B\ConsoleApplication3\ConsoleApplication3\bin\Release\KonversiDECBINHEX.pdb
+E:\UIN-Academy\C# - B\ConsoleApplication3\ConsoleApplication3\obj\x86\Release\ConsoleApplication3.csprojResolveAssemblyReference.cache
+E:\UIN-Academy\C# - B\ConsoleApplication3\ConsoleApplication3\obj\x86\Release\KonversiDECBINHEX.exe
+E:\UIN-Academy\C# - B\ConsoleApplication3\ConsoleApplication3\obj\x86\Release\KonversiDECBINHEX.pdb
